@@ -19,7 +19,6 @@ There are two different notebooks available in this repository:
 
 The repository includes the following important files:
 
-- `reviews_language.csv`: Dataset file containing the language of each comment.
 - `test.xlsx`: Additional test data file.
 - `test_reviews.xlsx`: Test data file for reviews.
 - `train.xlsx`: Additional training data file.
